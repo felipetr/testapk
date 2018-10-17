@@ -1,1 +1,1 @@
-var serverurl = 'http://localhost/projetos/voucher/server';
+var serverurl = 'http://gerens.com.br/voucher/server';
