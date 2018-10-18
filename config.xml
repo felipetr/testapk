@@ -36,7 +36,7 @@
 
 
     <gap:plugin name="org.apache.cordova.camera"/>
-    <preference name="phonegap-version" value="cli-6.4.0" />
+    <preference name="phonegap-version" value="cli-6.5.0" />
     <platform name="android">
         <icon density="ldpi" src="www/res/icon/android/drawable-ldpi-icon.png" />
         <icon density="mdpi" src="www/res/icon/android/drawable-mdpi-icon.png" />
