@@ -35,7 +35,7 @@
     <plugin name="cordova-plugin-whitelist" source="npm" spec="~1.2.1" />
 
 
-    <gap:plugin name="org.apache.cordova.camera"/>
+    <gap:plugin name="org.apache.cordova.camera.CameraLauncher"/>
     <preference name="phonegap-version" value="cli-6.5.0" />
     <platform name="android">
         <icon density="ldpi" src="www/res/icon/android/drawable-ldpi-icon.png" />
